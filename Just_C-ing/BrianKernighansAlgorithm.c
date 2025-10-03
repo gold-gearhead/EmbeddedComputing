@@ -5,7 +5,7 @@ int main()
 
 {
     /* to check number of set bits in a number*/
-    /* this algorithm finds number of bits in O(k) run time, where 'k' is number of bits */
+    /* this algorithm finds number of set bits in O(k) run time, where 'k' is number of set bits */
 
     uint8_t n = 45;
     uint8_t count=0;
